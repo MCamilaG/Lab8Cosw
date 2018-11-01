@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App-photo</string>
+    <string name="error">Ingrese un mensaje o seleccione una imagen</string>
+    <string name="camera">Camara</string>
+    <string name="galeria">Galeria</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
